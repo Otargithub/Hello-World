@@ -2,7 +2,7 @@
 {"alumno":"Lucas","nota":6, "ranking":10}, 
 {"alumno":"fernando","nota":5.0, "ranking":5},
 {"alumno":"luis","nota":4.0, "ranking":4}, 
-{"alumno":"carlos","nota":3.0, "ranking":3},
+{"alumno":"carlos","nota":3.0, "ranking":11},
 {"alumno":"rosa","nota":3.0, "ranking":3},
 {"alumno":"luisa","nota":2.0, "ranking":3},
 {"alumno":"julia","nota":2.0, "ranking":1},
